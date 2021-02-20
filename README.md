@@ -1,2 +1,2 @@
 # polyglot
-Multi-language translation web-app
+Multi-language translation web-app and API
